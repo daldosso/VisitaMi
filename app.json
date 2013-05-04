@@ -1,0 +1,11 @@
+{
+    "name": "Bike",
+    "js": [{
+		"path": "lib/touch/sencha-touch-all-debug.js"
+	}, {
+		"path": "app.js"
+	}],
+    "css": [{
+		"path": "resources/css/app.css"
+	}]
+}
